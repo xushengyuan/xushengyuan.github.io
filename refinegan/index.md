@@ -1,5 +1,5 @@
 # RefineGAN: Universally Generating High-Fidelity Waveform Better than Ground Truth
-#### Shengyuan Xu$^1$,Wenxiao Zhao$^2$,Jing Guo$^3$
+#### Shengyuan Xu,Wenxiao Zhao,Jing Guo
 [[paper]]()
 
 ## Singing Voice
