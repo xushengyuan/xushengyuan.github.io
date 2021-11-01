@@ -9,7 +9,7 @@
 |speaker|predicted|ground-truth|
 |-------|:-------:|:----------:|
 |Female 1 |<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_liyuan-000298_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_liyuan-000298.wav">|
-|Female 2 |<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/refinegan/sing_seen/all_xiaomo-000375_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/refinegan/sing_seen/all_xiaomo-000375.wav">|
+|Female 2 |<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_xiaomo-000375_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_xiaomo-000375.wav">|
 |Female 3 |<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_xiaoye-000426_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_xiaoye-000426.wav">|
 |Male 1|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_yunhao-000286_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_yunhao-000286.wav">|
 |Male 2|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_zhibing-000074_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_seen/all_zhibing-000074.wav">|
@@ -36,7 +36,7 @@
 |Female 1 (Tohoku Kiritan)|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_jpn_unseen/24_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_jpn_unseen/24.wav">|24.wav|
 |Female 1 (Tohoku Kiritan)|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_jpn_unseen/36_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_jpn_unseen/36.wav">|36.wav|
 |Male 1 (Ofuton P)|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_jpn_unseen/donguri_korokoro_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_jpn_unseen/donguri_korokoro.wav">|donguri_korokoro.wav|
-|Male 2 (Natsume Yuuri)|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_jpn_unseen/natsume_27_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/sing_jpn_unseen/natsume_27.wav">|27.wav|
+|Male 2 (Natsume Yuuri)|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_jpn_unseen/natsume_27_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/sing_jpn_unseen/natsume_27.wav">|27.wav|
 
 ## Speech voice (completely unseen)
 
